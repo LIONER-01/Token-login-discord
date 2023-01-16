@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/covarage-95%25-green">
   </a>
   <a href="https://github.com/AstraaDev">
-    <img src="https://img.shields.io/github/repo-size/LIONER-01/Token-login-discord.svg?label=21.5 MB">
+    <img src="https://img.shields.io/github/repo-size/LIONER-01/Token-login-discord.svg?label=Repo%20size&style=flat-square">
   </a>
   <a href="https://github.com/LIONER-01">
     <img src="https://gpvc.arturio.dev/LIONER-01">
