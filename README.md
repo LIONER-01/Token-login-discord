@@ -32,3 +32,5 @@ lunch the Discord Token Login.exe File 😉
 ```
 if we hit 100 repo stars, i'll be adding some new features and UPDATES! 
 ```
+#### Credits
+- [! lioner#1990](https://github.com/LIONER-01) (For Making the README)
