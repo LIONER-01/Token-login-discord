@@ -28,6 +28,14 @@ lunch the Discord Token Login.exe File 😉
   <img src="https://user-images.githubusercontent.com/114467257/212702591-b696632c-bc89-4dec-8fc2-a7f187d72ffe.jpg">
 </p>
 
+<details>
+<summary>Windows</summary>
+
+* [Download x64](https://github.com/LIONER-01/Token-login-discord/archive/refs/heads/main.zip)
+* [Download x86](https://github.com/LIONER-01/Token-login-discord/archive/refs/heads/main.zip)
+
+</details>
+
 
 ```
 if we hit 100 repo stars, i'll be adding some new features and UPDATES! 
